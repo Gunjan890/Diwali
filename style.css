@@ -41,8 +41,8 @@ section:nth-child(2).content
 section.content h2
 {
 	-webkit-text-stroke: 1px #ffffff;
-	color: red;
-	font-size: 7em;
+	color: transparent;
+	font-size: 8em;
 	line-height: 0.9em;
 }
 section.content h2 c
