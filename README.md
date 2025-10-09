@@ -19,7 +19,7 @@
 ## 🌐 Live Demo  
 
 <p align="center">
-  <a href="https://gunjandiwalieer.vercel.app/">
+  <a href="https://earthbygunjansingh.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
 </p>
